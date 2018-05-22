@@ -1,2 +1,2 @@
-# Bingo_sheets
+# Bingo sheets
 Randomised bingo sheets for our CAPER group
